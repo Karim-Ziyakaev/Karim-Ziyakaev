@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">">A young student from Russia who is interested in development</h3>
+<h3 align="center">A young student from Russia who is interested in development</h3>
 
 - 🌱 I’m currently learning **Back-end development**
 
