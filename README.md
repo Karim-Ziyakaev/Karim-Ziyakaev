@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Karim</h1>
-<h3 align="center">A young student from Russia who is interested in Android development</h3>
+<h3 align="center">">A young student from Russia who is interested in development</h3>
 
-- 🌱 I’m currently learning **Kotlin with jetpack compose**
+- 🌱 I’m currently learning **Back-end development**
 
 - 📫 How to reach me **karim.ziyakaev123@gmail.com**
 
